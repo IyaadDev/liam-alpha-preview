@@ -1,16 +1,8 @@
-# Liam
-**Current Stage: Alpha Development**
+# React + Vite
 
-During this stage, we attempt to finish building:
-- MVP Features
-- Pomodoro Timers
-- AI Chat
-- HPL Generation
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Next Level:
-- Advanced Study Sessions (Planning & Scheduling in-pomodoro)
-- Diary
+Currently, two official plugins are available:
 
-Level 3:
-- 1-Minute Lessons
-- Other Study Techniques
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
