@@ -1,7 +1,7 @@
 import '../css/bootstrap/bootstrap.min.css';
 import '../css/global.css';
-import Nav from '../components/Nav';
-import Widgets from "../components/Widgets";
+import Nav from '../../../../src/assets/components/Nav';
+import Widgets from "../../../../src/assets/components/Widgets";
 
 function App() {
   return (

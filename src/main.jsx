@@ -1,8 +1,8 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
 import { BrowserRouter, Route, Routes } from 'react-router-dom';
-import App from './assets/pages/app';
-import Login from './assets/pages/login';
+import App from '../liam/src/assets/pages/app';
+import Login from '../liam/src/assets/pages/login';
 import { Auth0Provider, useAuth0 } from '@auth0/auth0-react';
 import LoginButton from './assets/components/Login';
 import LogoutButton from './assets/components/Logout';
