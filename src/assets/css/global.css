@@ -1,6 +1,8 @@
 body {
     color: #fff;
-    background: url("https://cloud.acroford.com/sct/backgrounds/1.webp");
+    background: url("/backgrounds/standard.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
 }
 
 .nav {
